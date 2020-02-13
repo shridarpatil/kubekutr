@@ -3,6 +3,7 @@ module zerodha.tech/kubekutr
 go 1.12
 
 require (
+	github.com/AlecAivazis/survey/v2 v2.0.5
 	github.com/knadh/koanf v0.6.0
 	github.com/knadh/stuffbin v1.0.0
 	github.com/sirupsen/logrus v1.4.2

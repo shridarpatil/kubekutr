@@ -49,3 +49,5 @@
 - [ ] Write tests
 
 - [ ] Package manager releases
+
+- [ ] Add prompt to generate the config.
