@@ -51,3 +51,9 @@
 - [ ] Package manager releases
 
 - [ ] Add prompt to generate the config.
+
+- [ ] Kubekutr webpage
+
+- [ ] kubekutr recipes for popular app/frameworks (Go/Python/Frappe)
+
+- [ ] Add support for custom templates in form of Kustomize bases. Ability to add

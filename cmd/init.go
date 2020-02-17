@@ -93,8 +93,7 @@ func (hub *Hub) init(cliCtx *cli.Context) error {
 					// perform the questions
 					err := survey.Ask(containerQs, &ctr)
 					if err != nil {
-						fmt.Println(err.Error())
-						return fmt.Errorf("fake error: %v", err)
+						return fmt.Errorf("fake error: %v", err.Error())
 					}
 					dep.Containers = append(dep.Containers, ctr)
 				}
